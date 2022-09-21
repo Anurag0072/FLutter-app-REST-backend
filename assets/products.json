@@ -1,0 +1,410 @@
+{
+    "items":
+[
+ {
+  "Id": "1000",
+  "city name": "Ahmedabad",
+  "country": "india",
+  "no of affilation": "1",
+  "club name": "Sterling Clubs Pvt. Ltd.",
+  "location": "Sunrise Centre ,Ahmedabad-54.",
+  "Contact no": "07926851680,07926850935,07926857522"
+ },
+ {
+  "Id": "1001",
+  "city name": "Ajmer",
+  "country": "india",
+  "no of affilation": "1",
+  "club name": "Ajmer-Club",
+  "location": "Civil Lines, Ajmer-01",
+  "Contact no": "01452627003,01452624303,01452621322"
+ },
+ {
+  "Id":"1002" ,
+  "city name": "Amritsar",
+  "country": "india",
+  "no of affilation": "1",
+  "club name":"AGA Heritage Club",
+  "location": "Taylor Road Amritsar-01",
+  "Contact no": "1832223306"
+ },
+ {
+  "Id": "1003",
+  "city name": "Ahmednagar",
+  "country": "india",
+  "no of affilation": "1",
+  "club name": "Ahmednagar Club Ltd.",
+  "location": "Near Fort, Ahmednagar (Camp)-01",
+  "Contact no": "02412323000"
+ },
+ {
+  "Id": "1004",
+  "city name": "Amravati",
+  "country": "india",
+  "no of affilation":"1",
+  "club name": "Reforms Club",
+  "location": "Col.C.K.Naidu Road Camp,Amravati-02",
+  "Contact no": "7212662458"
+ },
+ {
+  "Id":"1005" ,
+  "city name": "Asansol",
+  "country": "india",
+  "no of affilation": "1",
+  "club name": "Asansol Club Ltd.",
+  "location": "Court More, Burdwan W.B. Asansol-04",
+  "Contact no": "0341-2254527, 2256350"
+ },
+ {
+  "Id": "1006",
+  "city name": "Bangalore",
+  "country": "india",
+  "no of affilation": "3",
+  "club name":"The Koramangala Club, Karnataka Engg. Academy, Cosmopolitan Club",
+  "location": "CA-17 6th Cross 6th Block Koramangala Bangalore-95.",
+  "Contact no": "08025531864, 08023232294 "
+ },
+ {
+  "Id": "1007",
+  "city name": "Bhilwara",
+  "country": "india",
+  "no of affilation": "1",
+  "club name": "Bhilwara Club",
+  "location": "Civil Lines, Bhilwara -01(Raj.)",
+  "Contact no": "01482230444, 01482235660"
+ },
+ {
+  "Id": "1008",
+  "city name": "Bhopal",
+  "country": "india",
+  "no of affilation": "1",
+  "club name": "Arera Club",
+  "location": "Tulsi Nagar, Bhopal",
+  "Contact no": "7552557294"
+ },
+ {
+  "Id": "1009",
+  "city name": "Bhubaneswar",
+  "country": "india",
+  "no of affilationn": "1",
+  "club name": "Bhuwaneshwar Club",
+  "location": "Rajpath, Unit -VI,Bhubaneswar-01",
+  "Contact no": "06742392211, 06742391654 , 06742392277"
+ },
+ {
+  "Id":" 1010",
+  "city name": "Chandigarh",
+  "country": "india",
+  "no of affilation": "1",
+  "club name": "Chandigarh Club Ltd.",
+  "location": "Sector-1, Chandigarh-01",
+  "Contact no": "01722743388, 01722740144, 01722742686"
+ },
+ {
+  "Id": "1011",
+  "city name": "Chennai",
+  "country": "india",
+  "no of affilation": "2",
+  "club name": "The Presidency Club,Madras Gymkhana Club",
+  "location": "Fairlawns 23 Ethiraj Salai, 23commander-In-Chief Road Madras-05.",
+  "Contact no": "04428226881"
+ },
+ {
+  "Id":"1012",
+  "city name": "Cochin",
+  "country": "india",
+  "no of affilation": "2",
+  "club name": "DD-Retreat,Cochin Gymkhana Club",
+  "location": "Thammanam, Cochin-32",
+  "Contact no": "04842340416 , 04842341743"
+ },
+ {
+  "Id": "1013",
+  "city name": "Cuttack",
+  "country": "india",
+  "no of affilation": "1",
+  "club name": "Cuttack Club Ltd",
+  "location": "Barabati Fort, Buxi Bazar, Cuttack-01",
+  "Contact no": "0671-2300007"
+ },
+ {
+  "Id": "1014",
+  "city name": "Dehradun",
+  "country": "india",
+  "no of affilation": "1",
+  "club name": "Dehra Dun Club Ltd.",
+  "location": "15,New Survey Road,Dehra Dun-01",
+  "Contact no": "01352657353, 01352656660"
+ },
+ {
+  "Id": "1015",
+  "city name": "Dhanbad",
+  "country": "india",
+  "no of affilation": "1",
+  "club name": "Dhanbad Club",
+  "location": "Luby Circular Road,Dhanbad-01",
+  "Contact no": "03262312450, 032623122186"
+ },
+ {
+  "Id": "1016",
+  "city name": "Doha",
+  "country": "Qatar",
+  "no of affilation": "1",
+  "club name": "Dhanbad Club",
+  "location": "Luby Circular Road,Dhanbad-01",
+  "Contact no": "03262312450, 032623122186"
+ },
+ {
+  "Id": "1017",
+  "city name": "Dubai",
+  "country": "UAE",
+  "no of affilation": "1",
+  "club name": "India Club",
+  "location": "P.O.Box No. 679,Dubai, U.A.E.",
+  "Contact no": "09714-3371112"
+ },
+ {
+  "Id": "1018",
+  "city name": "Goa",
+  "country": "india",
+  "no of affilation": "1",
+  "club name": "Clube Tennis de Gaspar Dias",
+  "location": "Miramar, Panaji - Goa- 403001",
+  "Contact no": "08322462220 , 08322462221 , 08322463491"
+ },
+ {
+  "Id": "1019",
+  "city name": "Gurgaon",
+  "country": "india",
+  "no of affilation": "1",
+  "club name": "The Resort Country Club",
+  "location": "Pachgaon-Mohamedpur Road,(Dist.Gurgaon)- 05.",
+  "Contact no": "011-604471, 6875255"
+ },
+ {
+  "Id": "1020",
+  "city name": "Gwalior",
+  "country": "india",
+  "no of affilation": "1",
+  "club name": "Jiwaji Club",
+  "location": "S. M. R. S. Marg, Gwalior-09",
+  "Contact no": "07512324110 , 07512336212"
+ },
+ {
+  "Id": "1021",
+  "city name": "Hyderabad",
+  "country": "india",
+  "no of affilation": "2",
+  "club name": "The Nizam Club,Fateh Maidan Club",
+  "location": "Saifabad, Opp.Assembly Hall Hyderabad - 04.,Abids Hyderabad Telangana 04",
+  "Contact no": "04023237097, 04023231054 ,"
+ },
+ {
+  "Id": "1022",
+  "city name": "Indore",
+  "country": "india",
+  "no of affilation": "1",
+  "club name": "The Yashwant Club",
+  "location": "Race Course Road, Indore-03.",
+  "Contact no": "07312549522, 07312549524 ,"
+ },
+ {
+  "Id": "1023",
+  "city name": "Jabalpur",
+  "country": "india",
+  "no of affilation": "1'",
+  "club name": "The Nerbudda Club Ltd",
+  "location": "Jabalpur",
+  "Contact no": "7612621326"
+ },
+ {
+  "Id": "1024",
+  "city name": "Jaipur",
+  "country": "india",
+  "no of affilation": "3",
+  "club name": "The Emeralad Garden Club, jaipur club Ltd, jai club",
+  "location": "Jacob Road Opp.P.W.D Office Jaipur-06,Mahaveer Marg C-Scheme Jaipur-01",
+  "Contact no": "7737555509, 01415101688 , 01412372321"
+ },
+ {
+  "Id": "1025",
+  "city name": "Jaisalmer",
+  "country": "india",
+  "no of affilation": "1",
+  "club name": "Jaisal Club Ltd.",
+  "location": "ethwai Road, Jaisalmer-01",
+  "Contact no": "02992254999, 02992255555"
+ },
+ {
+  "Id": "1026",
+  "city name": "Jalandhar",
+  "country": "india",
+  "no of affilation": "1",
+  "club name": "Jullundur Club Ltd.",
+  "loaction": " Jalandhar Cantt, Punjab",
+  "Contact no": "NA"
+ },
+ {
+  "Id": "1027",
+  "city name": "Jodhpur",
+  "country": "india",
+  "no of affilation": "3",
+  "club name": "jodhpur club, umed club, joshpur Gymkhana club",
+  "location": "774, 1st floor, Narayan, near bafana hospital 5th chopasani road jodhpur , Gaushala Grounds , Jodhpur-342006",
+  "Contact no": "8386855555"
+ },
+ {
+  "Id": "1028",
+  "city name": "Kolhapur",
+  "country": "india",
+  "no of affilation": "1",
+  "club name": "Jullundur Club Ltd.",
+  "location": "jalandhar cantt,punjab",
+  "Contact no": "NA"
+ },
+ {
+  "Id": "1029",
+  "city name": "Kolkata",
+  "country": "india",
+  "no of affilation": "4",
+  "club name": "jodhpur club, umed club, joshpur Gymkhana club",
+  "location": "15, Rabindra Sarobar , Kolkata–700029",
+  "Contact no": "NA"
+ },
+ {
+  "Id": "1030",
+  "city name": "Kottayam",
+  "country": "india",
+  "no of affilation": "1",
+  "club name": "Rama Varma Union Club",
+  "loaction": "Union Club Road, Kottayam, Kerala-01",
+  "Contact no": "04812582946 , 04812565448"
+ },
+ {
+  "Id": "1031",
+  "city name": "Lucknow",
+  "country": "india",
+  "no of affilation": "1",
+  "club name": "Oudh Gymkhana Club",
+  "loaction": "Kaiserbagh, Lucknow-01",
+  "Contact no": "05222230954 , 05222215436"
+ },
+ {
+  "Id": "1032",
+  "city name": "Mohali",
+  "country": "india",
+  "no of affilation": "1",
+  "club name": "The Mohali Club",
+  "location": "Sector-65, Mohali,Punjab-65.",
+  "Contact no": "0172383096, 0172383097"
+ },
+ {
+  "Id": "1033",
+  "city name": "mumbai",
+  "country": "india",
+  "no of affilation": "7",
+  "club name": "dadar club,the nanational sports club of india,the bombay presidancy radio club,\n mig cricket club,malabar hill club,juhu vile parle gymkhana,\n bombay gymkhana club.",
+  "location": "NA",
+  "Contact no": "NA"
+ },
+ {
+  "Id": "1034",
+  "city name": "New Delhi",
+  "country": "india",
+  "no of affilation": "4",
+  "club name": "the national sports club of india new delhi,",
+  "location": "NA",
+  "Contact no": "NA"
+ },
+ {
+  "Id": "1035",
+  "city name": "Pune",
+  "country": "india",
+  "no of affilation": "5",
+  "club name": "the new (poona) club ltd,royal cannaught boat club,\n pyc hindu gymkhana, poona club ltd, deccan gymkhan",
+  "location": "NA",
+  "Contact no": "NA"
+ },
+ {
+  "Id": "1036",
+  "city name": "Ranchi",
+  "country": "india",
+  "no of affilation": "2",
+  "club name": "Ranchi Gymkhana Club,Ranchi Club Ltd.",
+  "location": "Dipatoli, Ranchi-09",
+  "Contact no": "0651-2275667\/668\/693"
+ },
+ {
+  "Id": "1037",
+  "city name": "Salem",
+  "country": "india",
+  "no of affilation": "1",
+  "club name": "Salem Club",
+  "location": "Hasthampatty, Salem-07",
+  "Contact no": "04272314040 , 04272317070"
+ },
+ {
+  "Id": "1038",
+  "city name": "Shimla",
+  "country": "india",
+  "no of affilation": "1",
+  "club name": "Shimla Club",
+  "location": "Mall Road, Simla-01",
+  "Contact no": "0177-2653023\/2803023"
+ },
+ {
+  "Id": "1039",
+  "city name": "Thiruvananthapuram",
+  "country": "india",
+  "no of affilation": "1",
+  "club name": "Sri Mulam Club",
+  "location": "Vazhuthacaud,Thriuvananthapuram10",
+  "Contact no": "0471-2722980\/ 2723008,3262635"
+ },
+ {
+  "Id": "1040",
+  "city name": "Ujjain",
+  "country": "india",
+  "no of affilation": "1",
+  "club name": "Shree Madhav Club",
+  "location": "Madhav Club Road,Freeganj,Ujjain-10",
+  "Contact no": "0734552813"
+ },
+ {
+  "Id": "1041",
+  "city name": "Umbergaon",
+  "country": "india",
+  "no of affilation": "1",
+  "club name": "The Umbergaon Club",
+  "loaction": "Madhu-Van-Complex, Umbergaon Sanjan Road Opp.Harish Textiles, Umbergaon-71.(Gujrat)",
+  "Contact no": "0260-2562464, 2561122"
+ },
+ {
+  "Id": "1042",
+  "city name": "Udaipur",
+  "country": "india",
+  "no of affilation": "1",
+  "club name": "UDAYPUR GYMKHANA",
+  "location": "604,”KRISHNANGAN”, New Vidhya , Nagar Sector 4, Udaipur- 313302",
+  "Contact no": "NA"
+ },
+ {
+  "Id": "1043",
+  "city name": "Varanasi",
+  "country": "india",
+  "no of affilation": "1",
+  "club name": "Enaras Club Ltd.",
+  "location": "Club Road , Varanasi-221002",
+  "Contactno": "05422500508, 05422500351"
+ },
+ {
+  "Id": "1044",
+  "city name": "Vijayawada",
+  "country": "india",
+  "no of affilation": "1",
+  "club name": "Vijaywada Club",
+  "location": "Near Kanakadurgamma, Varadhi, Tedepalli (Guntur) -01",
+  "Contact no": "08662472350, 08666526662,"
+ }
+]
+}
