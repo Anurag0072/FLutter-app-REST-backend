@@ -12,7 +12,7 @@ Future<Member> memberDetailMethod(String MemberNumber) async {
   print("in memberDetailMethod MemberNum = "+MemberNumber);
 
   final response = await http.post(
-    Uri.parse('$ROOT/api/MemberApp/GetMemberDetails'),
+    Uri.parse('$ROOT/api/your api'),
 
     headers: <String, String>{
       'Content-Type': 'application/json; charset=UTF-8',
