@@ -7,4 +7,4 @@ const String regPassValidation = r'^(?=.*?[A-Z])(?=.*?[a-z])(?=.*?[0-9])(?=.*?[!
 //Port 770 for Live Project
 
 
-const String ROOT = 'http://132.148.80.97:770/';
+const String ROOT = 'http://api starting ip/';
