@@ -13,7 +13,7 @@ void changeMethod(String MemberNumber, String NewPassword) async {
 
 
   final response = await http.post(
-    Uri.parse('$ROOT/api/MemberApp/ChangePassword'),
+    Uri.parse('$ROOT/api/your api'),
 
     headers: <String, String>{
       'Content-Type': 'application/json; charset=UTF-8',
