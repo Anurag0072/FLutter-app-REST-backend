@@ -12,7 +12,7 @@ Future<Login> loginMethod(String UserName, String Password) async {
   print("in loginMethod password = " + Password);
 
   final response = await http.post(
-    Uri.parse('$ROOT/api/MemberApp/GetLoginStatus'),
+    Uri.parse('$ROOT/api/your api'),
     headers: <String, String>{
       'Content-Type': 'application/json; charset=UTF-8',
     },
