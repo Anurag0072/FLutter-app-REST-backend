@@ -13,7 +13,7 @@ import 'package:http/http.dart' as http;
   
 
   final response = await http.post(
-    Uri.parse('$ROOT/api/MemberApp/ForgotPwd'),
+    Uri.parse('$ROOT/api/your api'),
 
     headers: <String, String>{
       'Content-Type': 'application/json; charset=UTF-8',
