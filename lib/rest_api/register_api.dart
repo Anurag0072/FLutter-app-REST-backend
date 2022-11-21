@@ -11,7 +11,7 @@ Future<Register> RegisterMethod(String MemberNumber,String FirstName, String Las
   print("RegisterMethod");
 
   final response = await http.post(
-    Uri.parse('$ROOT/api/MemberApp/MemberRegistration'),
+    Uri.parse('$ROOT/api/your àpi'),
 
     headers: <String, String>{
       'Content-Type': 'application/json; charset=UTF-8',
