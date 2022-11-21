@@ -11,7 +11,7 @@ void UpdateMethod(String MemberNumber,String MobileNumber,String EmailAddress) a
   print("UpdateMethod");
 
   final response = await http.post(
-    Uri.parse('$ROOT/api/MemberApp/UpdateMember'),
+    Uri.parse('$ROOT/api/yourapi'),
 
     headers: <String, String>{
       'Content-Type': 'application/json; charset=UTF-8',
