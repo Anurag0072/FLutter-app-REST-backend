@@ -8,7 +8,7 @@ import '../model/member.dart';
 Future<List<Member>> fetchMemberListMethod() async {
 
   final response = await http.get(
-      Uri.parse('$ROOT/api/MemberApp/GetMemberList'));
+      Uri.parse('$ROOT/api/your api'));
 
   print('response = '+response.statusCode.toString());
   if (response.statusCode == 200) {
